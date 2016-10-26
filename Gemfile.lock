@@ -1,0 +1,22 @@
+GIT
+  remote: git://github.com/alec-chan/string_to_arpa.git
+  revision: 63e39973cce5579ec0204cd1997a76264e674b0c
+  specs:
+    string_to_arpa (0.1.1)
+      sqlite3
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby_rhymes (0.1.2)
+    sqlite3 (1.3.12-x64-mingw32)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  ruby_rhymes
+  string_to_arpa!
+
+BUNDLED WITH
+   1.13.6
